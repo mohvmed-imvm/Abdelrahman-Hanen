@@ -2001,7 +2001,7 @@ body.light-mode .memories-section .section-heading h2 {
     .memory-grid {
         display: grid !important;
         grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
-        grid-template-rows: 130px 130px !important;
+        grid-template-rows: 190px 190px !important;
         gap: 10px !important;
         width: 100% !important;
         max-width: 340px !important;
