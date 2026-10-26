@@ -2005,7 +2005,7 @@ body.light-mode .memories-section .section-heading h2 {
         gap: 10px !important;
         width: 100% !important;
         max-width: 340px !important;
-        margin-inline: auto !important;
+        margin-top:700px;
     }
 
     .memory-grid .memory-card {
@@ -2035,5 +2035,8 @@ body.light-mode .memories-section .section-heading h2 {
         height: 100% !important;
         min-height: 0 !important;
         object-fit: cover !important;
+    }
+    .section-heading {
+      top: 400px;
     }
 }
